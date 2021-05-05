@@ -53,7 +53,7 @@ A B.Sc. in Software Engineer based in Azrikam, Israel.
 
 - 👨‍💻 I’m currently looking for my next job
 
-- ⚡ Love photography & Pizza
+- ⚡ Music, photography & Pizza lover
 
 
 <br>
