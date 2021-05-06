@@ -45,9 +45,7 @@ size='20px'> Thank You for taking the time to view my GitHub Profile.
 <br>
 
 <h2> 👦 About Me </h2>
-A B.Sc. in Software Engineer based in Azrikam, Israel.
-
-- 🌱 Bachelors Degree in Software Engineer at SCE
+My name is Yariv. A Bachelors Degree in Software Engineer, based in Azrikam(Ashdod), Israel.
 
 - 📚 Learning AI & ML 
 
@@ -55,8 +53,6 @@ A B.Sc. in Software Engineer based in Azrikam, Israel.
 
 - ⚡ Music, photography & Pizza lover
 
-
-<br>
 
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -67,7 +63,7 @@ A B.Sc. in Software Engineer based in Azrikam, Israel.
 <a href= https://github.com/yariv1025?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/yariv1025?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 
-<br> <br> <br> <br>
+<br> <br> 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
@@ -77,7 +73,6 @@ A B.Sc. in Software Engineer based in Azrikam, Israel.
 
 [comment]: <> ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=yariv1025&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
-<br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
