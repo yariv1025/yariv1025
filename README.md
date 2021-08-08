@@ -47,7 +47,7 @@ size='20px'> Thank You for taking the time to view my GitHub Profile.
 <h2> 👦 About Me </h2>
 My name is Yariv G. A Bachelors Degree in Software Engineering, based in Azrikam(Ashdod), Israel.
 
-- 📚 Learning AI & ML 
+- 📚 Learning Back-end technologies
 
 - 👨‍💻 I’m currently looking for my next job
 
