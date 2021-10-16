@@ -31,7 +31,7 @@ https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-ne
 
 
 <div align="center"size='20px'>
-<h2> Thank You for taking the time to view my GitHub Profile.</h2>
+<h2> Thank You for taking time to view my GitHub Profile.</h2>
 </div>
 
 <h5 align="center">
