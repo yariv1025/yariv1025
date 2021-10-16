@@ -43,11 +43,6 @@ https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-ne
 
 <h2> About Me </h2>
 My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in moshav Azrikam, Israel.
-
-- 📚 I'm currently learning the Backend world 
-=======
-<h2> 👦 About Me </h2>
-My name is Yariv G. A Bachelors Degree in Software Engineering, based in Azrikam(Ashdod), Israel.
 - 📚 Learning Back-end technologies
 - ⚡ I love music, photography & Pizza
 
