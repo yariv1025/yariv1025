@@ -41,10 +41,17 @@ https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-ne
 
 <br>
 
+<<<<<<< HEAD
 <h2> About Me </h2>
 My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in moshav Azrikam, Israel.
 
 - 📚 I'm currently learning the Backend world 
+=======
+<h2> 👦 About Me </h2>
+My name is Yariv G. A Bachelors Degree in Software Engineering, based in Azrikam(Ashdod), Israel.
+
+- 📚 Learning Back-end technologies
+>>>>>>> 37fdd1d2b1ff19da8f0fdd2003b91c41f7bc9451
 
 - ⚡ I love music, photography & Pizza
 
@@ -86,4 +93,9 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in moshav Azrika
 <a href="https://www.instagram.com/yariv1052/" rel="nofollow">
 <img align="center" alt="Yariv's Instagram" width="100px" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
 </a>
+<<<<<<< HEAD
 </p>
+=======
+
+</p>
+>>>>>>> 37fdd1d2b1ff19da8f0fdd2003b91c41f7bc9451
