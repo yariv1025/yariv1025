@@ -66,7 +66,7 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in moshav Azrika
 
 <br> <br> 
 
-<h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> GitHub Stats </h2>
 
 [comment]: <> (![Metrics]&#40;https://metrics.lecoq.io/yariv1025?template=terminal&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJerusalem&#41;)
 
