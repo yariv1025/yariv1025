@@ -25,7 +25,7 @@ https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-ne
 
 
 <!-- <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  I'm Yariv</h1> -->
-<img src = "https://i.ibb.co/z40rKK4/Cover.png" width = 1500px length = 1000>
+<img src = "https://i.ibb.co/z40rKK4/Cover.png" width = 1500px; length = 1000>
 
 <!-- ![CoverPhoto](https://i.ibb.co/z40rKK4/Cover.png) -->
 
