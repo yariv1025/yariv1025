@@ -56,7 +56,7 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in Israel.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
  ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
- ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=Oracle&logoColor=4479A1)
+ ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=Oracle&logoColor=red)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=Express&logoColor=white)
