@@ -3,9 +3,11 @@
 
 ![CoverPhoto](https://i.ibb.co/z40rKK4/Cover.png)
 
-<!-- <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  I'm Yariv</h1> -->
+<div align="center"size='20px'><h2> I'm a tech enthusiast who loves to learn about new things. <br> 
+- 👨‍💻 I'm developing in the backend field 
 
-<div align="center"size='20px'><h2> Thank You for taking time to view my profile</h2></div>
+- ⚡ I love music, photography & Napolitan Pizzas <br>
+ </h2></div>
 
 
 <h5 align="center">
@@ -26,7 +28,7 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in Israel.
 <!-- https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz -->
 <!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif -->
 
-<h2><img src="https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz](https://media0.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif?cid=790b76115ea8742fbd915832f46a6f445b13763e04a7ad42&amp;rid=giphy.gif" width=15px> </> Tech</h2>
+<h2> </> Tech</h2>
 
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -53,7 +55,7 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in Israel.
 
 <br> <br> 
 
-<h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='12px'> GitHub Stats </h2>
+<h2> GitHub Stats </h2>
 
 [comment]: <> (![Metrics]&#40;https://metrics.lecoq.io/yariv1025?template=terminal&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJerusalem&#41;)
 
@@ -73,4 +75,6 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in Israel.
 <a href="https://www.instagram.com/yariv1052/" rel="nofollow">
 <img align="center" alt="Yariv's Instagram" width="100px" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
 </a>
+ 
+ [![Gmail Badge](https://img.shields.io/badge/-yariv1052@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yariv1052@gmail.com)]
 </p>
