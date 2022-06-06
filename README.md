@@ -3,7 +3,7 @@
 
 ![CoverPhoto](https://i.ibb.co/z40rKK4/Cover.png)
 
-<div align="center"size='20px'><h2> I'm a tech enthusiast who loves to learn about new things. <br> I love music, photography & Napolitan Pizzas <br> </h2></div>
+<div align="center"size='20px'><h3> I'm a tech enthusiast who loves to learn about new things. <br> I love music, photography & Napolitan Pizzas <br> </h3></div>
 
 <br>
 
@@ -45,8 +45,6 @@
 
 [comment]: <> ([![Yariv's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=yariv1025&#41;]&#40;https://github.com/yariv1025/github-readme-stats&#41;)
 
-<!-- anuraghazra -->
-
 <br>
 <h2> You can find me on </h2>
 
@@ -60,5 +58,5 @@
 <img align="center" alt="Yariv's Instagram" width="100px" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
 </a>
  
- [![Gmail Badge](https://img.shields.io/badge/-yariv1052@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yariv1052@gmail.com)]
+ ![Gmail Badge](https://img.shields.io/badge/-yariv1052@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yariv1052@gmail.com)
 </p>
