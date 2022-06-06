@@ -19,14 +19,14 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in Israel.
 
 - 👨‍💻 I'm developing in the backend field 
 
-- ⚡ I love music, photography & Pizza
+- ⚡ I love music, photography & Napolitan Pizzas
 
 <br> <br> 
+
 <!-- https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz -->
 <!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif -->
-<h2><img src = "https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz" width=15px length=15px> Tech</h2>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YPUh8SkoYuurwwV4bz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz">via GIPHY</a></p>
+<h2><img src = "[https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz](https://media0.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif?cid=790b76115ea8742fbd915832f46a6f445b13763e04a7ad42&amp;rid=giphy.gif)" width=15px length=15px> Tech</h2>
 
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
