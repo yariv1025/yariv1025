@@ -10,7 +10,9 @@
 <br>
 
 <p align="center">
-<h2> Tech </h2>
+ <samp>
+  <h2> Tech </h2>
+ </samp>
 
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
