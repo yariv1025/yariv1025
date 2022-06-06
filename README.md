@@ -3,16 +3,8 @@
 
 ![CoverPhoto](https://i.ibb.co/z40rKK4/Cover.png)
 
-<div align="center"size='20px'><h2> I'm a tech enthusiast who loves to learn about new things. <br> 
-- 👨‍💻 I'm developing in the backend field 
+<div align="center"size='20px'><h2> I'm a tech enthusiast who loves to learn about new things. <br> I love music, photography & Napolitan Pizzas <br> </h2></div>
 
-- ⚡ I love music, photography & Napolitan Pizzas <br>
- </h2></div>
-
-
-<h5 align="center">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yariv1025)
-</h5>
 
 <br>
 
