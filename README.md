@@ -10,7 +10,7 @@
 <!-- https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz -->
 <!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif -->
 
-<h2> '</>' Tech</h2>
+<h2> \<\/>\ Tech</h2>
 
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -49,18 +49,6 @@
 <h2> You can find me on </h2>
 
 <p>
-<!-- <a href="https://www.linkedin.com/in/yarivga" rel="nofollow">
-<img align="center" alt="Yariv's Linkdein" width="100px" src="https://camo.githubusercontent.com/6d6c8ca33e22a3be792706bf658adc4cf2fd996c018ec7b7446266db02b7de17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;">
-</a>
-
-
-<a href="https://www.instagram.com/yariv1052/" rel="nofollow">
-<img align="center" alt="Yariv's Instagram" width="100px" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
-</a>
- 
- <a href="https://www.instagram.com/yariv1052/" rel="nofollow">
-<img align="center" alt="Yariv's Email" width="100px" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
-</a> -->
  
 [![Linkedin Badge](https://img.shields.io/badge/-yarivga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarivga/)](https://www.linkedin.com/in/yarivga/)
  
