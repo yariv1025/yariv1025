@@ -34,15 +34,15 @@
 
 <br>
 
-<p align="center">
- <samp>
- Check out my repos ⬇️  
- </samp>
-</p>
-
 <p align="center"><samp>
     <a href="https://linkedin.com/in/yarivga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yarivga" height="20" width="20" /></a>
     <a href="https://stackoverflow.com/users/10566900/yariv-g" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yariv1052" height="20" width="20" /></a>
     <a href="https://instagram.com/yariv1052" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yariv1052" height="20" width="20" /></a>
   </samp>
+</p>
+
+<p align="center">
+ <samp>
+ Check out my repos ⬇️  
+ </samp>
 </p>
