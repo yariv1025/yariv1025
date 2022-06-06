@@ -5,57 +5,49 @@
 
 <div align="center"size='20px'><h2> I'm a tech enthusiast who loves to learn about new things. <br> I love music, photography & Napolitan Pizzas <br> </h2></div>
 
-
 <br>
-
-<h2> About Me </h2>
-My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in Israel.
-
-- 👨‍💻 I'm developing in the backend field 
-
-- ⚡ I love music, photography & Napolitan Pizzas
-
-<br> <br> 
 
 <!-- https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz -->
 <!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif -->
 
-<h2> </> Tech</h2>
+<h2> '</>' Tech</h2>
 
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
- <br>
+ 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
  ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
  ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=Oracle&logoColor=red)
- <br>
+ 
  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=Express&logoColor=white)
  ![Flask](https://img.shields.io/badge/Flask-FEFEFE?style=flate&logo=flask&logoColor=black)
- <br>
+ 
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-21759B?style=flat&logo=PostgreSQL&logoColor=white)
- <br>
+ 
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
  ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=Black)
  ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js&logoColor=Black)
- <br>
+ 
  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
  ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white)
- <br>
+ 
  ![circleCi](https://img.shields.io/badge/-CirleCi-343434?style=flat&logo=CircleCI)
 
-<br> <br> 
+<br>
 
 <h2> GitHub Stats </h2>
 
 [comment]: <> (![Metrics]&#40;https://metrics.lecoq.io/yariv1025?template=terminal&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJerusalem&#41;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yariv1025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yariv1025&layout=compact)](https://github.com/yariv1025/github-readme-stats)
 
-[comment]: <> ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=yariv1025&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+[comment]: <> ([![Yariv's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=yariv1025&#41;]&#40;https://github.com/yariv1025/github-readme-stats&#41;)
 
-<br> <br> 
+<!-- anuraghazra -->
+
+<br>
 <h2> You can find me on </h2>
 
 <p>
