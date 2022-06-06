@@ -34,24 +34,16 @@
 
 <h2> You can find me on </h2>
 
-<p>
-[![Linkedin Badge](https://img.shields.io/badge/-yarivga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarivga/)](https://www.linkedin.com/in/yarivga/)
-[![Instagram Badge](https://img.shields.io/badge/-yariv1052-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yariv1052/)](https://www.instagram.com/yariv1052/) 
-[![Gmail Badge](https://img.shields.io/badge/-yariv1052@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yariv1052@gmail.com)](https://www.gmail.com/)
-</p>
-
-
 <p align="center">
 <!-- <a href="https://twitter.com/yarivga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yarivga" height="20" width="20" /></a> -->
+ 
+ <!-- <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a> -->
 
 <a href="https://linkedin.com/in/yarivga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yarivga" height="20" width="20" /></a>
-
 <a href="https://stackoverflow.com/users/10566900/yariv-g" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yariv1052" height="20" width="20" /></a>
-
 <a href="https://instagram.com/yariv1052" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yariv1052" height="20" width="20" /></a>
  
-<!-- <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
-</p> -->
+</p>
 
 <p align="center"><samp>
 Check out my repos ⬇️  
