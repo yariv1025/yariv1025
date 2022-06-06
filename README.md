@@ -62,9 +62,9 @@
 <img align="center" alt="Yariv's Email" width="100px" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
 </a> -->
  
-![Linkedin Badge](https://img.shields.io/badge/-Yariv Garala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarivga/)](https://www.linkedin.com/in/yarivga/)
+![Linkedin Badge](https://img.shields.io/badge/-Yariv Garala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarivga/)(https://www.linkedin.com/in/yarivga/)
  
-[![Instagram Badge](https://img.shields.io/badge/-yariv1052-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yariv1052/)](https://www.instagram.com/yariv1052/) 
+![Instagram Badge](https://img.shields.io/badge/-yariv1052-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yariv1052/ (https://www.instagram.com/yariv1052/) 
  
 ![Gmail Badge](https://img.shields.io/badge/-yariv1052@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yariv1052@gmail.com)
 </p>
