@@ -2,14 +2,15 @@
 
 ![CoverPhoto](https://i.ibb.co/z40rKK4/Cover.png)
 
-<div align="center"size='20px'><h3> Hi there 👋🏾 welcome to my Github! I'm a Engineering Enthusiast who loves to learn about new things. <br> I also like Python, music, photography & I'm exploring Napolitan Pizzas <br> </h3></div>
+<div align="center"size='20px'><h3> Hi there 👋🏾 welcome to my Github! <br> I'm a Engineering Enthusiast who loves to learn about new things. <br> I also like Python, music, photography & I'm exploring Napolitan Pizzas <br> </h3></div>
 
 <!-- https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz -->
 <!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif -->
 
+<br>
 
 <p align="center">
-Tech
+<h2> Tech </h2>
 
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -29,6 +30,7 @@ Tech
  ![circleCi](https://img.shields.io/badge/-CirleCi-343434?style=flat&logo=CircleCI)
 </p>
 
+<br>
 
 <p align="center">
  <samp>
