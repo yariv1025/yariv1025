@@ -9,8 +9,6 @@
 
 
 <p align="center">
- <samp>
-  
 Tech
 
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
@@ -29,7 +27,6 @@ Tech
  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
  ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white)
  ![circleCi](https://img.shields.io/badge/-CirleCi-343434?style=flat&logo=CircleCI)
-  </samp>
 </p>
 
 
