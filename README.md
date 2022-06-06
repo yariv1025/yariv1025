@@ -1,41 +1,15 @@
-<!--
-**yariv1025/yariv1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 👨‍💻 I’m currently working on ...
-- 💪🏼 Future Goals: Learn more technologies
-- 📚 Learning everything about ... technologies
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 😉
-- 🔭
-
-https://algoritmim.co.il/tool-box/turn-your-github-into-your-calling-card/
-https://github.com/coderjojo/creative-profile-readme
-https://metrics.lecoq.io/
-https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-next-level-dd877a304d74
--->
+<!--👨‍💻💪🏼📚🌱👯🤔💬 📫😄⚡😉🔭-->
 
 
 ![CoverPhoto](https://i.ibb.co/z40rKK4/Cover.png)
 
 <!-- <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  I'm Yariv</h1> -->
 
-
 <div align="center"size='20px'><h2> Thank You for taking time to view my profile</h2></div>
 
 
 <h5 align="center">
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yariv1025)
-
 </h5>
 
 <br>
@@ -48,8 +22,9 @@ My name is Yariv Garala. I'm a Software Engineer (B.Sc.), based in Israel.
 - ⚡ I love music, photography & Pizza
 
 <br> <br> 
-
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=15px length=15px> Tech </h2>
+<!-- https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz -->
+<!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif -->
+<h2><img src = "https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz" width=15px length=15px> Tech</h2>
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YPUh8SkoYuurwwV4bz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz">via GIPHY</a></p>
 
