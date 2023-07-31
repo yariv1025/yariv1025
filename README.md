@@ -2,7 +2,9 @@
 
 ![CoverPhoto](https://i.ibb.co/z40rKK4/Cover.png)
 
-<div align="center"size='20px'><h3> Hi there 👋🏾 welcome to my Github! <br> I'm a Engineering Enthusiast who loves to learn about new things. <br> I also like Python, music, photography & I'm exploring Napolitan Pizzas <br> </h3></div>
+<div align="center"size='20px'><h3> Hi, welcome to my Github space!
+I'm an Engineering Enthusiast who loves to learn about new things.
+I also like Python, music, and photography & I'm exploring Neapolitan pizzas. <br> </h3></div>
 
 <!-- https://giphy.com/stickers/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz -->
 <!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif -->
