@@ -2,7 +2,7 @@
 
 <div align="center"size='20px'><h3> Welcome!
  I'm an engineering enthusiast with a passion for learning.
- I enjoy working with Python, listening to music, and exploring the world of Neapolitan pizzas." <br> </h3>
+ I enjoy working with Python, listening to music, and exploring the world of Neapolitan pizzas. <br> </h3>
 </div>
 
 <br>
