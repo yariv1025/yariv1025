@@ -9,7 +9,7 @@
 
 <div align="center">
  <samp>
-  <h2> Hands-on Tech Experiance </h2>
+  <h2> Hands-on Technical Experience </h2>
  </samp>
 
  ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
@@ -21,7 +21,7 @@
  ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)
 
  <samp>
-  <h2> Familiar with </h2>
+  <h2> Introductory Experience in </h2>
  </samp>
  
  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
