@@ -41,17 +41,9 @@ Backend Engineer with hands-on experience building **production-grade, cloud-nat
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yarivgarala" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin: 0 10px; filter: brightness(0) saturate(100%) invert(42%) sepia(86%) saturate(1000%) hue-rotate(320deg);" />
-  </a>
-  <a href="https://stackoverflow.com/users/10566900/yariv-g" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="30" style="margin: 0 10px; filter: brightness(0) saturate(100%) invert(42%) sepia(86%) saturate(1000%) hue-rotate(320deg);" />
-  </a>
-  <a href="https://medium.com/@yariv1052" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="30" style="margin: 0 10px; filter: brightness(0) saturate(100%) invert(42%) sepia(86%) saturate(1000%) hue-rotate(320deg);" />
-  </a>
-  <a href="https://instagram.com/yariv1052" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30" style="margin: 0 10px; filter: brightness(0) saturate(100%) invert(42%) sepia(86%) saturate(1000%) hue-rotate(320deg);" />
-  </a>
+<a href="https://linkedin.com/in/yarivgarala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10566900/yariv-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+<a href="https://medium.com/@yariv1052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://instagram.com/yariv1052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
